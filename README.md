@@ -1,1 +1,3 @@
-# keynote
+# Short Notes Command 
+ ## Django
+ ## Git 
